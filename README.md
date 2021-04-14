@@ -1,2 +1,2 @@
 # pooaday-server
-This is our express server for our app
+This is the express server for our app
